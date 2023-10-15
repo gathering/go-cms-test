@@ -9,6 +9,7 @@ Feel free to add more examples and documentation as needed.
 ## Current Content Management Systems being evaluated
 
 - [Wagtail](https://wagtail.org/) - Python and Django - [Go to Bakery demo](./wagtail-bakery/README.md)
+- [Payload](https://payloadcms.com/) - Typescript - [Go to Website demo](./payload-website/README.md) (Runs v2 which was just released, PG support was not yet stable during testing so using Mongo DB)
 
 ## Relevant notes
 
